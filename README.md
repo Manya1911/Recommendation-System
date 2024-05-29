@@ -1,4 +1,4 @@
-# Recommendation-System
+# Movie Recommendation-System
 ## Introduction
 This project is a Movie Recommendation System built using Python. It leverages data from the TMDB 5000 dataset to recommend movies based on a combination of features including genres, overview, keywords, cast, and crew. The recommendation system uses the Bag of Words technique and cosine similarity to find and suggest similar movies.
 
